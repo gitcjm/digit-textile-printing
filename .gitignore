@@ -1,5 +1,9 @@
 # Digit Textile Printing Model ver 0.1 .gitignore
 # cjm @ 2016-8-29
 
-# target files
-out
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
